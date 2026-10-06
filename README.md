@@ -21,6 +21,17 @@ npm run build
 npm start
 ```
 
+## 🌐 Deploy to Vercel
+
+The easiest way to deploy this Next.js app is using the [Vercel Platform](https://vercel.com/new).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHarsh-Prajapati2%2Fshiv-krishna-engineers)
+
+1. Connect your GitHub account on [vercel.com](https://vercel.com).
+2. Click **Add New Project** and select `shiv-krishna-engineers`.
+3. Vercel automatically detects Next.js framework preset and builds the app.
+4. Click **Deploy**. Any future commits to `main` will automatically trigger a new deployment.
+
 ## 📝 How to Edit Content
 
 All business data (name, address, phones, email, nav, services, stats) is centralized in a single configuration file. 
